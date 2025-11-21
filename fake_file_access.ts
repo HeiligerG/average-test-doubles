@@ -1,3 +1,6 @@
+// This file was created with AI assistance because i didn't understand it enough to 
+// write it myself. I will understand all and make the spy example whith out AI.
+
 import { NumberProvider } from "./number_provider.ts";
 
 export class FakeFileAccess implements NumberProvider {
